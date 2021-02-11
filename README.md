@@ -15,6 +15,6 @@ Best practices for building solutions with WSO2 platform
 
 - [API management best practices with WSO2 (slides)](https://www.slideshare.net/chanakaudaya/api-management-best-practices-with-wso2-api-manager)
 
-- [Best practices for API Management (slides)] (https://www.slideshare.net/wso2.org/best-practices-for-api-management)
+- [Best practices for API Management (slides)](https://www.slideshare.net/wso2.org/best-practices-for-api-management)
 
 
