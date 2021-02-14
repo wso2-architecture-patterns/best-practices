@@ -5,8 +5,6 @@ Best practices for building solutions with WSO2 platform
 
 - [WSO2 deployment best practices for docker and kubernetes](https://medium.com/wso2-learning/how-to-deploy-wso2-platform-on-docker-and-kubernetes-1d5beeb88c72)
 
-- [WSO2 API Manager GW synchronization based deployment](https://medium.com/wso2-learning/how-to-deploy-wso2-api-manager-gateway-cluster-with-synchronization-55b53db05472)
-
 - [WSO2 EI Best practices documentation](https://ei.docs.wso2.com/en/latest/micro-integrator/references/best-Practices/)
 
 - [WSO2 API Manager best practices documentation](https://apim.docs.wso2.com/en/latest/reference/wso2-api-manager-best-practices/#wso2-api-manager-best-practices)
