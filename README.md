@@ -15,4 +15,8 @@ Best practices for building solutions with WSO2 platform
 
 - [Best practices for API Management (slides)](https://www.slideshare.net/wso2.org/best-practices-for-api-management)
 
+- [Best pracitces and trends for IAM with WSO2 (slides)](https://www.slideshare.net/wso2.org/2018-iam-checklist-best-practices-trends-and-the-future)
+
+- [Best practices with securing SPAs with WSO2 IAM](https://wso2.com/blogs/thesource/securing-spas-best-practices/)
+
 
